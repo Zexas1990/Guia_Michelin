@@ -1,3 +1,3 @@
 # Guia_Michelin
 
-<p>Interfaz grafica desarrollada con la Java Swing 
+<p>Interfaz grafica desarrollada con Java Swing 
