@@ -21,7 +21,7 @@ public class InicioMichelin {
 				MichelinControl control = new MichelinControl(vMenu, vReg, vCon);
 				
 				vMenu.setControlador(control);
-				//vCon.setControlador(control);
+				vCon.setControlador(control);
 				vReg.setControlador(control);
 				
 				vMenu.hacerVisible();
